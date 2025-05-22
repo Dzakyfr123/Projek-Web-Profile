@@ -1,0 +1,71 @@
+body{
+    font-family: arial;
+    background-image: url('img/pattern.webp');
+}
+.profile{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.kenal{
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    font-size: larger;
+    border-radius: 20px;
+    opacity: 85%;
+}
+div{
+     margin: 40px;
+    padding: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-bottom-color: white;
+
+}
+.container-2{
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    font-size: larger;
+    border-radius: 20px;
+    opacity: 85%;
+}
+.container-3{
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    font-size: larger;
+    border-radius: 20px;
+    opacity: 85%;
+}
+.container-4{
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    font-size: larger;
+    border-radius: 20px;
+    opacity: 85%;
+    padding: 30px;
+}
+.container-5{
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    font-size: larger;
+    border-radius: 20px;
+    opacity: 85%;
+}
+.container-6{
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    font-size: larger;
+    border-radius: 20px;
+    opacity: 85%;
+}
+body{
+    scrollbar-color: gray;
+    scrollbar-width: 100px;
+}
